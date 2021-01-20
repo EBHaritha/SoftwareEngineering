@@ -2,3 +2,4 @@ Name: Haritha  E B
 Age: 21
 Course: MCA
 Semester: S1
+College: RIT kottayam
